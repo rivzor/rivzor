@@ -1,38 +1,45 @@
+# rivzor
+
+Чистые и рабочие инструменты для Windows 11 и повседневных задач.  
+Без рекламы. Без трекеров. Без лишнего.
+
+<img src="https://komarev.com/ghpvc/?username=rivzor&label=Просмотров+профиля&color=1e1e1e&style=flat-square" />
+<img src="https://img.shields.io/github/followers/rivzor?style=flat-square&color=1e1e1e&logo=github" />
+<img src="https://img.shields.io/github/stars/rivzor?affiliations=OWNER&style=flat-square&color=1e1e1e&logo=starship" />
+<img src="https://img.shields.io/badge/Windows-11%2025H2%2B-1e1e1e?style=flat-square&logo=windows" />
+<img src="https://img.shields.io/badge/LTSC-2024%2F2027-1e1e1e?style=flat-square&logo=windows" />
+<img src="https://img.shields.io/badge/Rust-Python-Tauri-1e1e1e?style=flat-square&logo=rust&logoColor=white" />
+
+<br>
+
+### Проекты
+
+- **ri-wiki** - вики с гайдами по Windows 11 25H2+, оптимизации, программам и утилитам  
+  → https://rivzor.github.io/ri-wiki/
+
+<br>
+
+### Статистика GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivzor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rivzor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rivzor&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivzor&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rivzor&theme=react&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rivzor&theme=react&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff" />
+
 </div>
 
-###
+<br>
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/df/4f/0b/df4f0b287b0cb3adeacaf349a106c70c.jpg"  />
+### Стек
+<img src="https://skillicons.dev/icons?i=rust,python,tauri,go,powershell,bash,githubactions,markdown&theme=dark" />
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### Связь
+Анонсы новых утилит и обновлений вики — Telegram: @rivzor
 
-###
-
-<div align="left">
-  <a href="https://www.twitch.tv/rivzor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/VDvGfY3m" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/rivzorxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
+Всё открыто. Форкайте, используйте, улучшайте.
