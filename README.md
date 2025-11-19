@@ -2,7 +2,7 @@
 
 Рабочие инструменты, утилиты и вики без рекламы и лишнего.
 
-<img src="https://profile-counter.glitch.me/rivzor/count.svg" alt="Посещений профиля" height="38"/>
+<img src="https://komarev.com/ghpvc/?username=rivzor&style=for-the-badge" height="38"/>
 <img src="https://img.shields.io/github/followers/rivzor?style=for-the-badge&color=0e75b6&logo=github" />
 <img src="https://img.shields.io/github/stars/rivzor?affiliations=OWNER&style=for-the-badge&color=0e75b6&logo=starship" />
 <img src="https://img.shields.io/badge/Rust · Python · Tauri-0e75b6?style=for-the-badge&logo=rust&logoColor=white" />
@@ -35,8 +35,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Telegram-@rivzor__tools-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-
+[![Telegram](https://img.shields.io/badge/Telegram-@rivzor-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rivzor)
 </div>
 
 <br>
