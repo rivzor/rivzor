@@ -28,7 +28,7 @@
 ### Проекты
 <div align="center">
 
-[![ri-wiki](https://github-readme-stats.vercel.app/api/pin/?username=rivzor&repo=ri-wiki)](https://rivzor.github.io/ri-wiki/) [![DiscordTokenMaster](https://github-readme-stats.vercel.app/api/pin/?username=rivzor&repo=DiscordTokenMaster)](https://rivzor.github.io/DiscordTokenMaster/)
+[![ri-wiki](https://github-readme-stats.vercel.app/api/pin/?username=rivzor&repo=ri-wiki)](https://github.com/rivzor/ri-wiki) [![DiscordTokenMaster](https://github-readme-stats.vercel.app/api/pin/?username=rivzor&repo=DiscordTokenMaster)](https://github.com/rivzor/DiscordTokenMaster/)
 
 </div>
 
