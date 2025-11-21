@@ -35,9 +35,7 @@
 <br/>
 
 ### Моя сборка ПК (2025)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rivzor/rivzor/main/assets/pc-banner.jpg" alt="PC Banner" width="100%"/>
-  
+<div align="center">  
   <br/>
 
   <table align="center" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); border-radius: 16px; padding: 20px; box-shadow: 0 0 30px rgba(0, 212, 255, 0.6); border: 1px solid #00D4FF;">
