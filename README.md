@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,go,rust,c,cpp,linux,windows,git,github,docker,vscode,neovim,powershell,bash&perline=10&theme=dark" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=python,rust,kotlin,cpp,cs,linux,windows,git,github,docker,vscode,figma&perline=6&theme=dark" alt="My Skills" />
 
 <br/>
 
